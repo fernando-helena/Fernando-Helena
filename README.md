@@ -91,7 +91,7 @@ Seguir creciendo como desarrollador de software, adquirir experiencia profesiona
 
 ## 📫 Contacto
 
-💼 **LinkedIn:** (https://www.linkedin.com/in/fernando-helena-670b38434/)
+💼 **LinkedIn:** https://www.linkedin.com/in/fernando-helena-670b38434/
 
 📧 **Email:** fernandohelena537@gmail.com
 
