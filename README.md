@@ -1,12 +1,14 @@
-# 👋 ¡Hola! Soy Fernando José Montoya
+# 👋 ¡Hola! Soy Fernando Helena
 
-### 💻 Software Developer | Estudiante de Ingeniería en Desarrollo de Software
+### 💻 Técnico en Desarrollo de Software
 
 ¡Bienvenido a mi perfil de GitHub! 🚀
 
-Soy estudiante de **Ingeniería en Desarrollo de Software**, apasionado por la tecnología y el desarrollo de aplicaciones web y móviles.
+Soy Técnico en Desarrollo de Software, apasionado por la tecnología
+y el desarrollo de aplicaciones web y móviles.
 
-Me gusta aprender nuevas tecnologías, resolver problemas mediante código y convertir ideas en proyectos funcionales.
+Me gusta aprender nuevas tecnologías, resolver problemas mediante código
+y convertir ideas en proyectos funcionales.
 
 ---
 
